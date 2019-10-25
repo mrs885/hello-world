@@ -4,6 +4,7 @@ img {
 
 p {
 	color: red;
+	image-orientation: unset;
 	font-style: italic;
 	font-size: xx-large;
 }
